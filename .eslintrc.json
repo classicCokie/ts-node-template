@@ -15,6 +15,7 @@
         "@typescript-eslint"
     ],
     "rules": {
-        "arrow-body-style": ["error", "as-needed"]
+        "arrow-body-style": ["error", "as-needed"],
+        "require-await": ["error"]
     }
 }
