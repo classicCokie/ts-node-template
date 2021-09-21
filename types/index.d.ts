@@ -1,4 +1,4 @@
-export type User = {
-    id: String;
-    name: String;
+export interface User {
+    id: string;
+    name: string;
 }

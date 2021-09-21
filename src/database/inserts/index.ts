@@ -1,0 +1,1 @@
+export { insertUserDb } from './insertUserDb'
